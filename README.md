@@ -1,0 +1,2 @@
+# -CrackYourPlacement
+DAY 1
